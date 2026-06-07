@@ -19,5 +19,4 @@ An interactive command-line calculator built in Python featuring arithmetic oper
 - Python 3
 - math module
 - File handling
-- 
 ---
